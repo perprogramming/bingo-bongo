@@ -1,1 +1,7 @@
 /.idea
+/composer.phar
+/app/config/parameters.yml
+/app/data.sqlite
+/app/cache
+/app/logs
+/vendor

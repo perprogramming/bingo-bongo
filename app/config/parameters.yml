@@ -1,0 +1,9 @@
+parameters:
+    secret: ssdfjwüefhw4uhfwp4uhfpw4uhf34hf854
+    mailer_host: smtp.sinfin.de
+    mailer_user: dummy@sinfin.de
+    mailer_password: dummy
+    database_host: ~
+    database_name: ~
+    database_user: ~
+    database_password: ~
